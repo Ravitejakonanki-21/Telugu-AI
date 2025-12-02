@@ -56,4 +56,4 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 MIT
 
 ---
-Made with ❤️ by [ravitejako](https://github.com/ravitejako)
+
